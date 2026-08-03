@@ -1,0 +1,18 @@
+{
+  "id": "oak_brief",
+  "name": "Brief Oak",
+  "version": "1.0.0",
+  "github": "Yukitty/gen1mod_oak_brief",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "category": "UI",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "incompatible": [],
+  "experimental": false,
+  "description": "Reduces Oak's speech to a series of one liners."
+}
